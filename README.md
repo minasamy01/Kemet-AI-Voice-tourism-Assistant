@@ -21,6 +21,10 @@ Unlike traditional booking apps, Kemet focuses on **Natural Human Interaction**:
 
 ---
 
+
+https://github.com/user-attachments/assets/5c834379-122d-44b3-a391-b7d4e99be08e
+
+
 ## 🏗️ Project Structure
 
 ```bash
