@@ -1,0 +1,6 @@
+streamlit
+cohere
+openai-whisper
+audio-recorder-streamlit
+python-dotenv
+pydub

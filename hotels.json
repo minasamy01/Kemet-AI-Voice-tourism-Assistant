@@ -1,0 +1,46 @@
+{
+  "egypt_travel_guide": {
+    "khan_el_khalili": [
+      {"name": "Le Riad Hotel de Charme", "rating": 4.4, "category": "Luxury", "link": "https://www.google.com/travel/search?q=Le+Riad+Hotel+de+Charme"},
+      {"name": "Arabian Nights Hotel", "rating": 3.7, "category": "Budget", "link": "https://www.google.com/travel/search?q=Arabian+Nights+Hotel"},
+      {"name": "Downtown Antique Hotel", "rating": 4.7, "category": "Mid-Range", "link": "https://www.google.com/travel/search?q=Downtown+antique+hotel"},
+      {"name": "Tourist Hotel Cairo", "rating": 4.7, "category": "Mid-Range", "link": "https://www.google.com/travel/search?q=Tourist+Hotel+Cairo"},
+      {"name": "Castle Hotel", "rating": 4.2, "category": "Budget", "link": "https://www.google.com/travel/search?q=Castle+Hotel"}
+    ],
+    "tahrir_square": [
+      {"name": "Steigenberger El Tahrir", "rating": 4.8, "category": "Luxury", "link": "https://www.google.com/travel/search?q=Steigenberger+El+Tahrir"},
+      {"name": "Tahrir Plaza Suites", "rating": 4.2, "category": "Mid-Range", "link": "https://www.google.com/travel/search?q=Tahrir+Plaza+Suites"},
+      {"name": "City Palace Hotel", "rating": 3.5, "category": "Mid-Range", "link": "https://www.google.com/travel/search?q=City+Palace+Hotel"},
+      {"name": "EL TAHRIR VIEW", "rating": 3.9, "category": "Mid-Range", "link": "https://www.google.com/travel/search?q=EL+TAHRIR+VIEW"},
+      {"name": "Tahrir Square Hostel", "rating": 4.5, "category": "Budget", "link": "https://www.google.com/travel/search?q=Tahrir+Square+Hostel"}
+    ],
+    "cairo_tower": [
+      {"name": "Mina El Salam Hotel", "rating": 4.3, "category": "Mid-Range", "link": "https://www.google.com/travel/search?q=Mina+El+Salam"},
+      {"name": "Indiana Hotel Cairo", "rating": 3.0, "category": "3-Star", "link": "https://www.google.com/travel/search?q=Indiana+Hotel"},
+      {"name": "Cairo Taj Hotels & Suites", "rating": 4.4, "category": "Mid-Range", "link": "https://www.google.com/travel/search?q=Cairo+Taj+Hotels"},
+      {"name": "Safir Hotel Cairo", "rating": 3.9, "category": "Budget", "link": "https://www.google.com/travel/search?q=Safir+Hotel+Cairo"},
+      {"name": "Valencia Hotel Cairo", "rating": 3.5, "category": "Budget", "link": "https://www.google.com/travel/search?q=Valencia+Hotel"}
+    ],
+    "cairo_airport": [
+      {"name": "Novotel Cairo Airport", "rating": 4.6, "category": "Luxury / 4-Star", "link": "https://www.google.com/travel/search?q=Novotel+Cairo+Airport"},
+      {"name": "Le Méridien Cairo Airport", "rating": 4.5, "category": "Luxury / 5-Star", "link": "https://www.google.com/travel/search?q=Le+Meridien+Airport"},
+      {"name": "Le Passage Cairo Hotel", "rating": 4.2, "category": "Luxury / 5-Star", "link": "https://www.google.com/travel/search?q=Le+Passage+Cairo"},
+      {"name": "Radisson Residences Heliopolis", "rating": 4.8, "category": "Luxury", "link": "https://www.google.com/travel/search?q=Radisson+Residences"},
+      {"name": "Golden Park Hotel", "rating": 3.6, "category": "Budget / 3-Star", "link": "https://www.google.com/travel/search?q=Golden+Park+Hotel"}
+    ],
+    "nile_corniche_and_towers": [
+      {"name": "Fairmont Nile City", "rating": 4.7, "category": "Luxury / 5-Star", "link": "https://www.google.com/travel/search?q=Fairmont+Nile+City"},
+      {"name": "Sofitel Nile El Gezirah", "rating": 4.8, "category": "Luxury / 5-Star", "link": "https://www.google.com/travel/search?q=Sofitel+Nile"},
+      {"name": "Novotel Cairo El Borg", "rating": 4.6, "category": "Mid-Range / 4-Star", "link": "https://www.google.com/travel/search?q=Novotel+El+Borg"},
+      {"name": "Holiday Inn Cairo Maadi", "rating": 4.5, "category": "Luxury / 5-Star", "link": "https://www.google.com/travel/search?q=Holiday+Inn+Maadi"},
+      {"name": "Maadi Hotel", "rating": 3.8, "category": "Budget / 4-Star", "link": "https://www.google.com/travel/search?q=Maadi+Hotel"}
+    ],
+    "pyramids_and_grand_museum": [
+      {"name": "The View Pyramids Hotel", "rating": 4.9, "category": "Panoramic View", "link": "https://www.google.com/travel/search?q=The+View+Pyramids"},
+      {"name": "Steigenberger Pyramids Cairo", "rating": 4.4, "category": "Luxury / 5-Star", "link": "https://www.google.com/travel/search?q=Steigenberger+Pyramids"},
+      {"name": "Best View Pyramids", "rating": 4.3, "category": "Mid-Range", "link": "https://www.google.com/travel/search?q=Best+View+Pyramids"},
+      {"name": "Pyramids View Inn", "rating": 4.2, "category": "Budget / Guest House", "link": "https://www.google.com/travel/search?q=Pyramids+View+Inn"},
+      {"name": "Grand Pyramids Hotel", "rating": 3.8, "category": "Mid-Range / 4-Star", "link": "https://www.google.com/travel/search?q=Grand+Pyramids+Hotel"}
+    ]
+  }
+}

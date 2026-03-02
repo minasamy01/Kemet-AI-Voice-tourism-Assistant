@@ -1,0 +1,16 @@
+# Environments
+venv/
+.env
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Temporary Audio Files
+*.wav
+temp.wav
+temp_audio.wav
+
+# VS Code settings
+.vscode/
+
